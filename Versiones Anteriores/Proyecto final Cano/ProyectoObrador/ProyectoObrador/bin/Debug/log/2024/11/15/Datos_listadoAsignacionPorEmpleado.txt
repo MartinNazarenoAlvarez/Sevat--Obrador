@@ -1,0 +1,88 @@
+2024-11-15 15:35:36 --> Error: La cadena de entrada no tiene el formato correcto. - Detalle: System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   en MySql.Data.MySqlClient.MySqlDataReader.ChangeType(IMySqlValue value, Int32 fieldIndex, Type newType)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarHerramientasPrestamoInactivo(Int32 idEmpleado) en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 211
+2024-11-15 15:37:15 --> Error: La cadena de entrada no tiene el formato correcto. - Detalle: System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   en MySql.Data.MySqlClient.MySqlDataReader.ChangeType(IMySqlValue value, Int32 fieldIndex, Type newType)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarHerramientasPrestamoInactivo(Int32 idEmpleado) en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 211
+2024-11-15 15:37:49 --> Error: La cadena de entrada no tiene el formato correcto. - Detalle: System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   en MySql.Data.MySqlClient.MySqlDataReader.ChangeType(IMySqlValue value, Int32 fieldIndex, Type newType)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarHerramientasPrestamoInactivo(Int32 idEmpleado) en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 211
+2024-11-15 15:53:47 --> Error: La cadena de entrada no tiene el formato correcto. - Detalle: System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   en MySql.Data.MySqlClient.MySqlDataReader.ChangeType(IMySqlValue value, Int32 fieldIndex, Type newType)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarHerramientasPrestamoInactivo(Int32 idEmpleado) en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 211
+2024-11-15 15:54:25 --> Error: La cadena de entrada no tiene el formato correcto. - Detalle: System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   en MySql.Data.MySqlClient.MySqlDataReader.ChangeType(IMySqlValue value, Int32 fieldIndex, Type newType)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarHerramientasPrestamoInactivo(Int32 idEmpleado) en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 211
+2024-11-15 15:58:45 --> Error: La cadena de entrada no tiene el formato correcto. - Detalle: System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   en MySql.Data.MySqlClient.MySqlDataReader.ChangeType(IMySqlValue value, Int32 fieldIndex, Type newType)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarHerramientasPrestamoInactivo(Int32 idEmpleado) en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 211
+2024-11-15 16:14:09 --> Error: La cadena de entrada no tiene el formato correcto. - Detalle: System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   en MySql.Data.MySqlClient.MySqlDataReader.ChangeType(IMySqlValue value, Int32 fieldIndex, Type newType)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarHerramientasPrestamoInactivo(Int32 idEmpleado) en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 211
+2024-11-15 16:14:11 --> Error: La cadena de entrada no tiene el formato correcto. - Detalle: System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   en MySql.Data.MySqlClient.MySqlDataReader.ChangeType(IMySqlValue value, Int32 fieldIndex, Type newType)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarHerramientasPrestamoInactivo(Int32 idEmpleado) en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 211
+2024-11-15 16:14:49 --> Error: La cadena de entrada no tiene el formato correcto. - Detalle: System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   en MySql.Data.MySqlClient.MySqlDataReader.ChangeType(IMySqlValue value, Int32 fieldIndex, Type newType)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarHerramientasPrestamoInactivo(Int32 idEmpleado) en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 211
+2024-11-15 16:15:24 --> Error: La cadena de entrada no tiene el formato correcto. - Detalle: System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   en MySql.Data.MySqlClient.MySqlDataReader.ChangeType(IMySqlValue value, Int32 fieldIndex, Type newType)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarHerramientasPrestamoInactivo(Int32 idEmpleado) en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 211
+2024-11-15 16:15:28 --> Error: La cadena de entrada no tiene el formato correcto. - Detalle: System.FormatException: La cadena de entrada no tiene el formato correcto.
+   en System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   en System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   en System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   en System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   en MySql.Data.MySqlClient.MySqlDataReader.ChangeType(IMySqlValue value, Int32 fieldIndex, Type newType)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(Int32 i)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarHerramientasPrestamoInactivo(Int32 idEmpleado) en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 211

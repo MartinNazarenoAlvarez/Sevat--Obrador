@@ -1,0 +1,43 @@
+2024-10-28 23:38:39 --> Iniciando proceso de actualización
+2024-10-28 23:39:22 --> Iniciando proceso de actualización
+2024-10-28 23:39:22 --> Empleado seleccionado - DNI Original: 5547, DNI Nuevo: 5547
+2024-10-28 23:39:22 --> Datos del empleado asignados: Apellido - Alvarez, Nombre - 343, Cargo - 54, Teléfono - 54, Activo - False
+2024-10-28 23:39:22 --> Parámetros establecidos para el procedimiento almacenado asp_actualizarEmpleado
+2024-10-28 23:39:22 --> Filas afectadas tras ejecutar: 1
+2024-10-28 23:39:23 --> Conexión cerrada
+2024-10-28 23:40:08 --> Iniciando proceso de actualización
+2024-10-28 23:40:08 --> Empleado inactivo - DNI Original: , DNI Nuevo: 
+2024-10-28 23:40:08 --> Datos del empleado inactivo asignados: Apellido - , Nombre - , Cargo - , Teléfono - , Activo - True
+2024-10-28 23:40:08 --> Parámetros establecidos para el procedimiento almacenado asp_actualizarEmpleado (empleado inactivo)
+2024-10-28 23:40:08 --> Filas afectadas tras ejecutar: 1 (empleado inactivo)
+2024-10-28 23:40:09 --> Conexión cerrada para empleado inactivo
+2024-10-28 23:40:19 --> Iniciando proceso de actualización
+2024-10-28 23:40:19 --> Empleado inactivo - DNI Original: 43, DNI Nuevo: 435
+2024-10-28 23:40:19 --> Datos del empleado inactivo asignados: Apellido - 2, Nombre - 3, Cargo - 5, Teléfono - 2, Activo - False
+2024-10-28 23:40:19 --> Parámetros establecidos para el procedimiento almacenado asp_actualizarEmpleado (empleado inactivo)
+2024-10-28 23:40:19 --> Filas afectadas tras ejecutar: 1 (empleado inactivo)
+2024-10-28 23:40:20 --> Conexión cerrada para empleado inactivo
+2024-10-28 23:40:27 --> Iniciando proceso de actualización
+2024-10-28 23:40:27 --> Empleado inactivo - DNI Original: 435, DNI Nuevo: 435
+2024-10-28 23:40:27 --> Datos del empleado inactivo asignados: Apellido - 2, Nombre - 3, Cargo - 5, Teléfono - 2, Activo - False
+2024-10-28 23:40:27 --> Parámetros establecidos para el procedimiento almacenado asp_actualizarEmpleado (empleado inactivo)
+2024-10-28 23:40:27 --> Filas afectadas tras ejecutar: 1 (empleado inactivo)
+2024-10-28 23:40:28 --> Conexión cerrada para empleado inactivo
+2024-10-28 23:40:30 --> Iniciando proceso de actualización
+2024-10-28 23:40:30 --> Empleado inactivo - DNI Original: 435, DNI Nuevo: 4357
+2024-10-28 23:40:30 --> Datos del empleado inactivo asignados: Apellido - 2, Nombre - 3, Cargo - 5, Teléfono - 2, Activo - False
+2024-10-28 23:40:30 --> Parámetros establecidos para el procedimiento almacenado asp_actualizarEmpleado (empleado inactivo)
+2024-10-28 23:40:30 --> Filas afectadas tras ejecutar: 1 (empleado inactivo)
+2024-10-28 23:40:31 --> Conexión cerrada para empleado inactivo
+2024-10-28 23:40:33 --> Iniciando proceso de actualización
+2024-10-28 23:40:33 --> Empleado inactivo - DNI Original: 4357, DNI Nuevo: 435
+2024-10-28 23:40:33 --> Datos del empleado inactivo asignados: Apellido - 2, Nombre - 3, Cargo - 5, Teléfono - 2, Activo - False
+2024-10-28 23:40:33 --> Parámetros establecidos para el procedimiento almacenado asp_actualizarEmpleado (empleado inactivo)
+2024-10-28 23:40:33 --> Filas afectadas tras ejecutar: 1 (empleado inactivo)
+2024-10-28 23:40:33 --> Conexión cerrada para empleado inactivo
+2024-10-28 23:40:35 --> Iniciando proceso de actualización
+2024-10-28 23:40:35 --> Empleado inactivo - DNI Original: 435, DNI Nuevo: 435
+2024-10-28 23:40:35 --> Datos del empleado inactivo asignados: Apellido - 2, Nombre - 3, Cargo - 5, Teléfono - 2, Activo - True
+2024-10-28 23:40:35 --> Parámetros establecidos para el procedimiento almacenado asp_actualizarEmpleado (empleado inactivo)
+2024-10-28 23:40:35 --> Filas afectadas tras ejecutar: 1 (empleado inactivo)
+2024-10-28 23:40:36 --> Conexión cerrada para empleado inactivo

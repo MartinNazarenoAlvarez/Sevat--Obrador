@@ -1,0 +1,53 @@
+2024-11-01 17:45:27 --> Iniciando la búsqueda de asignaciones.
+2024-11-01 17:45:27 --> Buscar por empleado: False, Buscar por fechas: True
+2024-11-01 17:45:27 --> Fechas seleccionadas: Desde - 1/11/2024 17:45:25, Hasta - 1/11/2024 17:45:25
+2024-11-01 17:45:27 --> Buscando asignaciones por fechas.
+2024-11-01 17:45:27 --> Cantidad de asignaciones encontradas: 0
+2024-11-01 17:45:28 --> No se encontraron asignaciones, se ha restablecido el DataGridView.
+2024-11-01 17:45:28 --> Búsqueda de asignaciones finalizada.
+2024-11-01 17:46:17 --> Iniciando la búsqueda de asignaciones.
+2024-11-01 17:46:17 --> Buscar por empleado: False, Buscar por fechas: True
+2024-11-01 17:46:17 --> Fechas seleccionadas: Desde - 1/11/2024 00:00:00, Hasta - 1/11/2024 00:00:00
+2024-11-01 17:46:17 --> Buscando asignaciones por fechas.
+2024-11-01 17:46:17 --> Cantidad de asignaciones encontradas: 11
+2024-11-01 17:46:17 --> Asignaciones cargadas en el DataGridView.
+2024-11-01 17:46:17 --> Búsqueda de asignaciones finalizada.
+2024-11-01 17:46:18 --> Iniciando la búsqueda de asignaciones.
+2024-11-01 17:46:18 --> Buscar por empleado: False, Buscar por fechas: True
+2024-11-01 17:46:18 --> Fechas seleccionadas: Desde - 1/11/2024 00:00:00, Hasta - 1/11/2024 00:00:00
+2024-11-01 17:46:18 --> Buscando asignaciones por fechas.
+2024-11-01 17:46:18 --> Cantidad de asignaciones encontradas: 11
+2024-11-01 17:46:18 --> Asignaciones cargadas en el DataGridView.
+2024-11-01 17:46:18 --> Búsqueda de asignaciones finalizada.
+2024-11-01 17:46:21 --> Iniciando la búsqueda de asignaciones.
+2024-11-01 17:46:21 --> Buscar por empleado: False, Buscar por fechas: True
+2024-11-01 17:46:21 --> Fechas seleccionadas: Desde - 1/11/2024 00:00:00, Hasta - 2/11/2024 00:00:00
+2024-11-01 17:46:21 --> Buscando asignaciones por fechas.
+2024-11-01 17:46:21 --> Cantidad de asignaciones encontradas: 11
+2024-11-01 17:46:21 --> Asignaciones cargadas en el DataGridView.
+2024-11-01 17:46:21 --> Búsqueda de asignaciones finalizada.
+2024-11-01 17:47:06 --> Iniciando la búsqueda de asignaciones.
+2024-11-01 17:47:06 --> Buscar por empleado: False, Buscar por fechas: True
+2024-11-01 17:47:06 --> Fechas seleccionadas: Desde - 1/11/2024 00:00:00, Hasta - 2/11/2024 00:00:00
+2024-11-01 17:47:06 --> Buscando asignaciones por fechas.
+2024-11-01 17:47:06 --> Cantidad de asignaciones encontradas: 10
+2024-11-01 17:47:06 --> Asignaciones cargadas en el DataGridView.
+2024-11-01 17:47:06 --> Búsqueda de asignaciones finalizada.
+2024-11-01 17:47:21 --> Iniciando la búsqueda de asignaciones.
+2024-11-01 17:47:21 --> Buscar por empleado: False, Buscar por fechas: True
+2024-11-01 17:47:21 --> Fechas seleccionadas: Desde - 1/10/2024 00:00:00, Hasta - 2/11/2024 00:00:00
+2024-11-01 17:47:21 --> Buscando asignaciones por fechas.
+2024-11-01 17:47:21 --> Cantidad de asignaciones encontradas: 11
+2024-11-01 17:47:21 --> Asignaciones cargadas en el DataGridView.
+2024-11-01 17:47:21 --> Búsqueda de asignaciones finalizada.
+2024-11-01 17:47:26 --> Iniciando la búsqueda de asignaciones.
+2024-11-01 17:47:26 --> Buscar por empleado: False, Buscar por fechas: True
+2024-11-01 17:47:26 --> Fechas seleccionadas: Desde - 1/10/2024 00:00:00, Hasta - 31/10/2024 00:00:00
+2024-11-01 17:47:26 --> Buscando asignaciones por fechas.
+2024-11-01 17:47:26 --> Cantidad de asignaciones encontradas: 1
+2024-11-01 17:47:26 --> Asignaciones cargadas en el DataGridView.
+2024-11-01 17:47:26 --> Búsqueda de asignaciones finalizada.
+2024-11-01 17:47:30 --> Iniciando la búsqueda de asignaciones.
+2024-11-01 17:47:30 --> Buscar por empleado: False, Buscar por fechas: False
+2024-11-01 17:47:30 --> Fechas seleccionadas: Desde - 1/10/2024 00:00:00, Hasta - 31/10/2024 00:00:00
+2024-11-01 17:47:31 --> Ningún criterio de búsqueda seleccionado.

@@ -1,0 +1,136 @@
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.AssemblyReference.cache
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Properties.Resources.resources
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.GenerateResource.cache
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.CoreCompileInputs.cache
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.exe.config
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.exe
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.pdb
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\MySql.Data.dll
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\System.Memory.dll
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\System.Numerics.Vectors.dll
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\System.Buffers.dll
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\MySql.Data.xml
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\Proyecto.41A4A933.Up2Date
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.exe
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.pdb
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.frmPrincipal.resources
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.frmEmpleado.resources
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.SuggestedBindingRedirects.cache
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.exe.config
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.exe.config
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.exe
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.pdb
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\MySql.Data.dll
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Memory.dll
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Buffers.dll
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\MySql.Data.xml
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.AssemblyReference.cache
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.SuggestedBindingRedirects.cache
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.exe.config
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Properties.Resources.resources
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.frmPrincipal.resources
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.frmEmpleado.resources
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.GenerateResource.cache
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.CoreCompileInputs.cache
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\Proyecto.41A4A933.Up2Date
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.exe
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.pdb
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.FuncionesDelPrograma.resources
+C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.FrmHerramientas.resources
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.exe.config
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.exe
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.pdb
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\MySql.Data.dll
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Memory.dll
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Numerics.Vectors.dll
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Buffers.dll
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\MySql.Data.xml
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.AssemblyReference.cache
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.SuggestedBindingRedirects.cache
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.exe.config
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Properties.Resources.resources
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.frmPrincipal.resources
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.frmEmpleado.resources
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.FrmHerramientas.resources
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.FuncionesDelPrograma.resources
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.GenerateResource.cache
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.CoreCompileInputs.cache
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\Proyecto.41A4A933.Up2Date
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.exe
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.pdb
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.Prestamos.resources
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.Asignaciones.resources
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.Empleados.resources
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.Herramientas.resources
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.FrmEditarAsignacion.resources
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.exe.config
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.exe
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.pdb
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\MySql.Data.dll
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Memory.dll
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Threading.Tasks.Extensions.dll
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Numerics.Vectors.dll
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Buffers.dll
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\MySql.Data.xml
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.AssemblyReference.cache
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.SuggestedBindingRedirects.cache
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.exe.config
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Properties.Resources.resources
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.Asignaciones.resources
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.Empleados.resources
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.frmPrincipal.resources
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.FrmEditarAsignacion.resources
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.frmEmpleado.resources
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.FrmHerramientas.resources
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.FuncionesDelPrograma.resources
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.Herramientas.resources
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.Prestamos.resources
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.GenerateResource.cache
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.CoreCompileInputs.cache
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\Proyecto.41A4A933.Up2Date
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.exe
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.pdb
+E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.HerramientasAsignadas.resources
+F:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.HerramientasAsignadas.resources
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.exe.config
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.exe
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.pdb
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\MySql.Data.dll
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Memory.dll
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Numerics.Vectors.dll
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Buffers.dll
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\MySql.Data.xml
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.AssemblyReference.cache
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.SuggestedBindingRedirects.cache
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.exe.config
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Properties.Resources.resources
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.Asignaciones.resources
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.Empleados.resources
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.frmPrincipal.resources
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.FrmEditarAsignacion.resources
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.frmEmpleado.resources
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.FrmHerramientas.resources
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.FuncionesDelPrograma.resources
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.Herramientas.resources
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.HerramientasAsignadas.resources
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Vistas.Prestamos.resources
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.GenerateResource.cache
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.CoreCompileInputs.cache
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\Proyecto.41A4A933.Up2Date
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.exe
+D:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.pdb

@@ -1,0 +1,30 @@
+2024-11-15 15:43:32 --> System.IndexOutOfRangeException: Could not find specified column in results: id_herramienta
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(String column)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarAsignaciones() en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 368
+2024-11-15 15:43:39 --> System.IndexOutOfRangeException: Could not find specified column in results: id_herramienta
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(String column)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarAsignaciones() en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 368
+2024-11-15 15:44:02 --> System.IndexOutOfRangeException: Could not find specified column in results: id_herramienta
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(String column)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarAsignaciones() en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 368
+2024-11-15 15:44:12 --> System.IndexOutOfRangeException: Could not find specified column in results: id_herramienta
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(String column)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarAsignaciones() en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 368
+2024-11-15 15:44:14 --> System.IndexOutOfRangeException: Could not find specified column in results: id_herramienta
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(String column)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarAsignaciones() en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 368
+2024-11-15 15:44:22 --> System.IndexOutOfRangeException: Could not find specified column in results: id_herramienta
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(String column)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarAsignaciones() en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 368

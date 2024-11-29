@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|d:\\proyecto final cano - presentacion\\proyectoobrador\\versiones anteriores\\proyecto final cano\\proyectoobrador\\proyectoobrador\\vistas\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\frmempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\vistas\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\vistas\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\prestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\vistas\\frmherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\frmherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\vistas\\frmherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\frmherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\datos\\datosempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\datos\\datosempleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\vistas\\asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\vistas\\asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\datos\\datosherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\datos\\datosherramientas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\vistas\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\proyectoobrador\\vistas\\prestamos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\prestamos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Asignaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Asignaciones.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\Asignaciones.cs",
+              "ToolTip": "D:\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Asignaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Asignaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:57:53.736Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestamos.cs",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Prestamos.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\Prestamos.cs",
+              "ToolTip": "D:\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Prestamos.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Prestamos.cs*",
+              "ViewState": "AgIAAEoBAAAAAAAAAADwv1EBAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T17:36:02.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\frmEmpleado.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\frmEmpleado.cs",
+              "ToolTip": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\frmEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoObrador\\Vistas\\frmEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:31:26.784Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\Form1.cs",
+              "ToolTip": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Form1.cs",
+              "RelativeToolTip": "ProyectoObrador\\Vistas\\Form1.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAA6wMgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:56:29.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\Form1.cs",
+              "ToolTip": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoObrador\\Vistas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:56:27.583Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Asignaciones.cs",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Asignaciones.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\Asignaciones.cs",
+              "ToolTip": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Asignaciones.cs",
+              "RelativeToolTip": "ProyectoObrador\\Vistas\\Asignaciones.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAqwIoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T18:42:51.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prestamos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Prestamos.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\Prestamos.cs",
+              "ToolTip": "D:\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Prestamos.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Prestamos.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T19:08:53.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmHerramientas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\FrmHerramientas.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\FrmHerramientas.cs",
+              "ToolTip": "D:\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\FrmHerramientas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\FrmHerramientas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:21:31.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmHerramientas.cs",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\FrmHerramientas.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\FrmHerramientas.cs",
+              "ToolTip": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\FrmHerramientas.cs",
+              "RelativeToolTip": "ProyectoObrador\\Vistas\\FrmHerramientas.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAswMMBAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:21:50.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Datos\\Conexion.cs",
+              "ToolTip": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Datos\\Conexion.cs",
+              "RelativeToolTip": "ProyectoObrador\\Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:08:25.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatosEmpleados.cs",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Datos\\DatosEmpleados.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Datos\\DatosEmpleados.cs",
+              "ToolTip": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Datos\\DatosEmpleados.cs",
+              "RelativeToolTip": "ProyectoObrador\\Datos\\DatosEmpleados.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T16:09:20.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatosHerramientas.cs",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Datos\\DatosHerramientas.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Datos\\DatosHerramientas.cs",
+              "ToolTip": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Datos\\DatosHerramientas.cs",
+              "RelativeToolTip": "ProyectoObrador\\Datos\\DatosHerramientas.cs",
+              "ViewState": "AgIAAG8BAAAAAAAAAAAuwJIBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:22:53.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Empleados.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\Empleados.cs",
+              "ToolTip": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Empleados.cs",
+              "RelativeToolTip": "ProyectoObrador\\Vistas\\Empleados.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAowFoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T18:20:48.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Prestamos.Designer.cs",
+              "DocumentMoniker": "D:\\Proyecto final Cano - Presentacion\\ProyectoObrador\\Versiones Anteriores\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Prestamos.Designer.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\Prestamos.Designer.cs",
+              "ToolTip": "D:\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Prestamos.Designer.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Proyecto final Cano\\ProyectoObrador\\ProyectoObrador\\Vistas\\Prestamos.Designer.cs*",
+              "ViewState": "AgIAADICAAAAAAAAAAAwwEQCAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:37:34.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

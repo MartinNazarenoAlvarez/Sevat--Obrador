@@ -1,0 +1,6 @@
+2024-11-15 00:52:40 --> Verificación herramienta prestada (id_herramienta: 7): False
+2024-11-15 00:52:41 --> Intentando ejecutar el procedimiento almacenado para agregar el préstamo (id_herramienta: 7, id_empleado: 3).
+2024-11-15 00:52:41 --> Error al ejecutar el procedimiento almacenado. No se insertó el registro en la base de datos (result: 2). Haciendo rollback.
+2024-11-15 15:26:20 --> Verificación herramienta prestada (id_herramienta: 2): False
+2024-11-15 15:26:20 --> Intentando ejecutar el procedimiento almacenado para agregar el préstamo (id_herramienta: 2, id_empleado: 3).
+2024-11-15 15:26:20 --> Préstamo agregado exitosamente (id_herramienta: 2, id_empleado: 3).

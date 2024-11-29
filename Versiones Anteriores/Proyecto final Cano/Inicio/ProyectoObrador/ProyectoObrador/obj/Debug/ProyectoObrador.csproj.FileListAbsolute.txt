@@ -1,0 +1,17 @@
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.AssemblyReference.cache
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.Properties.Resources.resources
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.GenerateResource.cache
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.csproj.CoreCompileInputs.cache
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.exe.config
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.exe
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\ProyectoObrador.pdb
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\MySql.Data.dll
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\System.Memory.dll
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\System.Numerics.Vectors.dll
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\System.Buffers.dll
+D:\ProyectoObrador\ProyectoObrador\bin\Debug\MySql.Data.xml
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\Proyecto.41A4A933.Up2Date
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.exe
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.pdb
+D:\ProyectoObrador\ProyectoObrador\obj\Debug\ProyectoObrador.frmPrincipal.resources

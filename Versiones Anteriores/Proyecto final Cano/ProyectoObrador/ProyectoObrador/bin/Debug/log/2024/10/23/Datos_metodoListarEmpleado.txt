@@ -1,0 +1,661 @@
+2024-10-23 14:02:03 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:06:51 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 34
+2024-10-23 14:07:00 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 34
+2024-10-23 14:07:04 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 34
+2024-10-23 14:07:04 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 34
+2024-10-23 14:07:04 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 34
+2024-10-23 14:07:05 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 34
+2024-10-23 14:07:05 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 34
+2024-10-23 14:07:05 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 34
+2024-10-23 14:07:05 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 34
+2024-10-23 14:07:06 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 34
+2024-10-23 14:13:51 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:14:11 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:14:37 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:14:48 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:16:01 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:16:10 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:16:12 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:16:12 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:16:13 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:16:13 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:16:13 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:16:13 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:16:14 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:16:14 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:16:14 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:18:58 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:19:55 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:19:58 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:19:58 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:19:59 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:19:59 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:19:59 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-23 14:52:33 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 14:54:26 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 14:54:31 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 14:54:47 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 14:54:53 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 14:54:58 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 14:55:08 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 14:59:31 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 14:59:57 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 15:01:06 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 15:01:11 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 15:07:37 --> System.InvalidOperationException: Connection must be valid and open.
+   en MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134
+2024-10-23 15:07:41 --> System.InvalidOperationException: Connection must be valid and open.
+   en MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134
+2024-10-23 15:07:47 --> System.InvalidOperationException: Connection must be valid and open.
+   en MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134
+2024-10-23 15:07:53 --> System.InvalidOperationException: Connection must be valid and open.
+   en MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134
+2024-10-23 15:07:58 --> System.InvalidOperationException: Connection must be valid and open.
+   en MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134
+2024-10-23 15:08:54 --> System.InvalidOperationException: Connection must be valid and open.
+   en MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134
+2024-10-23 15:08:58 --> System.InvalidOperationException: Connection must be valid and open.
+   en MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134
+2024-10-23 15:08:59 --> System.InvalidOperationException: Connection must be valid and open.
+   en MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134
+2024-10-23 15:14:50 --> System.InvalidOperationException: Connection must be valid and open.
+   en MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 133
+2024-10-23 15:17:02 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 15:17:05 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 15:23:25 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134
+2024-10-23 15:23:28 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134
+2024-10-23 15:26:48 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 15:26:52 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 16:05:29 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 16:05:31 --> System.ArgumentException: Parameter '_dni' not found in the collection.
+   en MySql.Data.MySqlClient.MySqlParameterCollection.GetParameterFlexible(String parameterName, Boolean throwOnNotFound)
+   en MySql.Data.MySqlClient.StoredProcedure.GetAndFixParameter(String spName, MySqlSchemaRow param, Boolean realAsFloat, MySqlParameter returnParameter)
+   en MySql.Data.MySqlClient.StoredProcedure.<CheckParametersAsync>d__12.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.StoredProcedure.Resolve(Boolean preparing)
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 136
+2024-10-23 16:08:13 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134
+2024-10-23 16:08:17 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134
+2024-10-23 16:08:29 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.buscarXdni(String _dni) en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 134

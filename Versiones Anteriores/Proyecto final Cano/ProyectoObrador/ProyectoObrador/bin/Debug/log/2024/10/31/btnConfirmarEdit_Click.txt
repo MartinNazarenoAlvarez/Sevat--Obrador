@@ -1,0 +1,16 @@
+2024-10-31 17:22:52 --> Parámetros establecidos para el procedimiento almacenado asp_actualizarEmpleado
+2024-10-31 17:22:52 --> Filas afectadas tras ejecutar: 1
+2024-10-31 17:22:53 --> Conexión cerrada
+2024-10-31 17:24:25 --> Parámetros establecidos para el procedimiento almacenado asp_actualizarEmpleado
+2024-10-31 17:24:25 --> Filas afectadas tras ejecutar: 1
+2024-10-31 17:24:26 --> Conexión cerrada
+2024-10-31 17:24:30 --> Parámetros establecidos para el procedimiento almacenado asp_actualizarEmpleado
+2024-10-31 17:24:30 --> Filas afectadas tras ejecutar: 1
+2024-10-31 17:24:31 --> Conexión cerrada
+2024-10-31 17:24:47 --> Parámetros establecidos para el procedimiento almacenado asp_actualizarEmpleado
+2024-10-31 17:24:47 --> Filas afectadas tras ejecutar: 1
+2024-10-31 17:24:48 --> Conexión cerrada
+2024-10-31 17:24:57 --> Parámetros establecidos para el procedimiento almacenado asp_actualizarEmpleado
+2024-10-31 17:24:57 --> Filas afectadas tras ejecutar: 1
+2024-10-31 17:24:58 --> Conexión cerrada
+2024-10-31 17:25:05 --> Filas afectadas tras ejecutar: 1 (empleado inactivo)

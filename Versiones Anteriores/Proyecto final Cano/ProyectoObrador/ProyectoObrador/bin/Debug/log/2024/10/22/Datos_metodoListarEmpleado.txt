@@ -1,0 +1,351 @@
+2024-10-22 14:28:22 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 32
+2024-10-22 14:28:25 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 32
+2024-10-22 14:43:45 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 14:43:45 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 14:43:46 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:25:10 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:29:42 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:31:21 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:41:53 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:11 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:12 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:12 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:12 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:13 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:13 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:13 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:13 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:13 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:13 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:14 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:14 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:44:14 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:53:36 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:53:48 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:55:14 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:55:15 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:55:16 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:55:16 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:55:16 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:55:16 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:55:17 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:55:17 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:58:06 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:58:10 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 17:59:42 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 18:04:18 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 33
+2024-10-22 18:09:01 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-22 18:09:02 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35
+2024-10-22 18:09:06 --> System.InvalidOperationException: The connection is already open.
+   en MySql.Data.MySqlClient.Interceptors.ExceptionInterceptor.Throw(Exception exception)
+   en MySql.Data.MySqlClient.MySqlConnection.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlConnection.<OpenAsync>d__94.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlConnection.Open()
+   en ProyectoObrador.Datos.DatosEmpleados.listarEmpleados() en D:\ProyectoObrador\ProyectoObrador\Datos\DatosEmpleados.cs:línea 35

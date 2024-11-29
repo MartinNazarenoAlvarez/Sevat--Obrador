@@ -1,0 +1,9 @@
+2024-10-25 20:34:02 --> System.InvalidOperationException: Connection must be valid and open.
+   en MySql.Data.MySqlClient.MySqlCommand.Throw(Exception ex)
+   en MySql.Data.MySqlClient.MySqlCommand.CheckState()
+   en MySql.Data.MySqlClient.MySqlCommand.<ExecuteReaderAsync>d__111.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en MySql.Data.MySqlClient.MySqlCommand.ExecuteReader()
+   en ProyectoObrador.Datos.DatosHerramientas.listarHerramientas() en C:\Users\nazar\OneDrive\Escritorio\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosHerramientas.cs:línea 138

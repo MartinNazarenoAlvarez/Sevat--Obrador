@@ -1,0 +1,5 @@
+2024-11-02 22:02:38 --> System.IndexOutOfRangeException: Could not find specified column in results: id_asignacion
+   en MySql.Data.MySqlClient.ResultSet.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetOrdinal(String name)
+   en MySql.Data.MySqlClient.MySqlDataReader.GetInt32(String column)
+   en ProyectoObrador.Datos.DatosAsignaciones.listarAsignaciones() en E:\Proyecto final Cano\ProyectoObrador\ProyectoObrador\Datos\DatosAsignaciones.cs:línea 308

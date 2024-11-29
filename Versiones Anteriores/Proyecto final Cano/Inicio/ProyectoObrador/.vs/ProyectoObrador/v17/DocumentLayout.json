@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProyectoObrador\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|d:\\proyectoobrador\\proyectoobrador\\datos\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\datos\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\ProyectoObrador\\proyectoobrador\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|d:\\proyectoobrador\\proyectoobrador\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\vistas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|D:\\ProyectoObrador\\proyectoobrador\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C29A782-4D37-4868-95DB-966565E81A14}|ProyectoObrador\\ProyectoObrador.csproj|solutionrelative:proyectoobrador\\datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "D:\\ProyectoObrador\\ProyectoObrador\\Datos\\Funciones.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Datos\\Funciones.cs",
+              "ToolTip": "D:\\ProyectoObrador\\ProyectoObrador\\Datos\\Funciones.cs",
+              "RelativeToolTip": "ProyectoObrador\\Datos\\Funciones.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T23:58:27.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\ProyectoObrador\\ProyectoObrador\\Vistas\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\Form1.cs",
+              "ToolTip": "D:\\ProyectoObrador\\ProyectoObrador\\Vistas\\Form1.cs",
+              "RelativeToolTip": "ProyectoObrador\\Vistas\\Form1.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwC0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T17:30:47.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\ProyectoObrador\\ProyectoObrador\\Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Datos\\Conexion.cs",
+              "ToolTip": "D:\\ProyectoObrador\\ProyectoObrador\\Datos\\Conexion.cs",
+              "RelativeToolTip": "ProyectoObrador\\Datos\\Conexion.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:50:15.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\ProyectoObrador\\ProyectoObrador\\Vistas\\Form1.cs",
+              "RelativeDocumentMoniker": "ProyectoObrador\\Vistas\\Form1.cs",
+              "ToolTip": "D:\\ProyectoObrador\\ProyectoObrador\\Vistas\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ProyectoObrador\\Vistas\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:44:48.736Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
